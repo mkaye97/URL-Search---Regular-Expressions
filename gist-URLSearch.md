@@ -77,12 +77,6 @@ The second of the two Anchors used, is the '$' character. This Anchor behaves si
 
 ### Character Classes
 
-### The OR Operator
-Remove?
-
-### Flags
-Remove?
-
 ### Character Escapes
 
 ## Author
