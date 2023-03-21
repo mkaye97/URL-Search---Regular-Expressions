@@ -1,14 +1,14 @@
 # URL Matching - Using Regular Expressions
 
-In this tutorial we will anzlyze the use and attributes of a regular expression written to match a sample URL based on a given criteria. Below is the specific expression that will be explained...
+In this tutorial we will anzlyze the use and attributes of a regular expression written to match a sample URL based on a given criteria.
+
+## Summary
+
+The below code snippet represents a Regular Expression used to find a URL in a given set of text.
 
 ```md
 const re = /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
 ```
-
-## Summary
-
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
 ## Table of Contents
 
